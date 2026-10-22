@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-22T21:44:17+10:00",
+"updated": "2026-10-23T09:08:41+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1340,14 +1340,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3015.48,
+"upfrontInsurance": 3256.41,
+"ongoingInsurance": 1085.47,
+"soaFile": {
+"name": "Aubrey Gerrard Teorani Sheridan - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1W7Ou9qfbcHLYxTMuQJewiLLoSnROVuRt/view"
+}
 },
 {
 "id": "r-janine-slade",
