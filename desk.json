@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T13:34:14+10:00",
+"updated": "2026-10-23T16:07:15+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2839,6 +2839,23 @@
 "received": "2026-10-23",
 "due": "2026-10-29 12pm",
 "salesRep": "Andre",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-amber-woods",
+"client": "Amber Woods",
+"received": "2026-10-23",
+"due": "2026-10-29 3pm",
+"salesRep": "Mitchell",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
