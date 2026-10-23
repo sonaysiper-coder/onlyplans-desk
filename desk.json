@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T12:30:59+10:00",
+"updated": "2026-10-23T13:03:48+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1303,16 +1303,16 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-23",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 839.33,
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "20261015 Austin, Gabrielle - Statement of Advice.pdf",
-"url": "https://drive.google.com/file/d/1WJUJtxcsDRDC6WaNOBCuJIUvO7Wbq7uC/view"
+"name": "Gabrielle Rebekah Austin - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1VPiFfxC6dspQ7W74qHaP1TKL507UvpY7/view"
 }
 },
 {
@@ -1585,9 +1585,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-23",
 "initialAdviceFee": 5500.0,
 "ongoingAdviceFee": 2306.62,
 "upfrontInsurance": 0.0,
