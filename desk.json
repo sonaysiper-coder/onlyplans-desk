@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T12:04:04+10:00",
+"updated": "2026-10-23T12:30:59+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1311,8 +1311,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Gabrielle Rebekah Austin - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1VPiFfxC6dspQ7W74qHaP1TKL507UvpY7/view"
+"name": "20261015 Austin, Gabrielle - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1WJUJtxcsDRDC6WaNOBCuJIUvO7Wbq7uC/view"
 }
 },
 {
@@ -1762,9 +1762,9 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-23",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 0.0,
 "upfrontInsurance": 1417.03,
@@ -2788,6 +2788,23 @@
 "received": "2026-10-23",
 "due": "2026-11-06 10am",
 "salesRep": "Min / Sam W",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-phillip-johnson",
+"client": "Phillip Johnson",
+"received": "2026-10-23",
+"due": "2026-10-28 1pm",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
