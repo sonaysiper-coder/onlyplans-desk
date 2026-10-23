@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T13:03:48+10:00",
+"updated": "2026-10-23T13:34:14+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2805,6 +2805,40 @@
 "received": "2026-10-23",
 "due": "2026-10-28 1pm",
 "salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-carlos-koc",
+"client": "Carlos Bartesaghi Koc",
+"received": "2026-10-23",
+"due": "2026-10-30 12pm",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-shawn-lawrence",
+"client": "Shawn Lawrence",
+"received": "2026-10-23",
+"due": "2026-10-29 12pm",
+"salesRep": "Andre",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
