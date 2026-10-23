@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T10:37:30+10:00",
+"updated": "2026-10-23T11:06:42+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1816,14 +1816,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 5497.97,
+"upfrontInsurance": 3065.08,
+"ongoingInsurance": 1021.68,
+"soaFile": {
+"name": "Clint Stephen Mccarthy - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1Aeg-2J1HMz-U1hFoTrWN0bdv5_-os3ze/view"
+}
 },
 {
 "id": "r-lauren-nicol",
@@ -2775,6 +2778,23 @@
 "name": "20260925 Holland, Melissa - Statement of Advice.pdf",
 "url": "https://drive.google.com/file/d/1GDa3QOvkMT6WGqxM0goRUFAhiYIwc9Z9/view"
 }
+},
+{
+"id": "r-brittany-jones",
+"client": "Brittany Jones",
+"received": "2026-10-23",
+"due": "2026-11-06 10am",
+"salesRep": "Min / Sam W",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
 }
 ]
 }
