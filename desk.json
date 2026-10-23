@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T11:06:42+10:00",
+"updated": "2026-10-23T11:33:53+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1782,14 +1782,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 1434.54,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "The Hung Nguyen - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1u7ilmMZa-lQ8YyPmFJkvNx2Nsx5Ks7Jz/view"
+}
 },
 {
 "id": "r-jeanna-shepherd",
