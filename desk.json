@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T16:07:15+10:00",
+"updated": "2026-10-26T09:09:41+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1950,14 +1950,17 @@
 "salesRep": null,
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
 "initialAdviceFee": null,
 "ongoingAdviceFee": null,
 "upfrontInsurance": null,
 "ongoingInsurance": null,
-"soaFile": null
+"soaFile": {
+"name": "Celli Anna Clews - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1juVzD_8G8ReOGCje6_HtBtYjdaXgYIvm/view"
+}
 },
 {
 "id": "r-jenni-brown",
