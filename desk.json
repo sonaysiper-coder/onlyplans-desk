@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T16:37:47+10:00",
+"updated": "2026-10-26T17:07:02+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2036,14 +2036,17 @@
 "salesRep": "Mitch",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 6091.91,
+"upfrontInsurance": 119.92,
+"ongoingInsurance": 39.98,
+"soaFile": {
+"name": "Craig Douglas Midgley - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/118bcUNAwWj6f5eR9ERpJpK32or-h2khK/view"
+}
 },
 {
 "id": "r-christien-midgley",
