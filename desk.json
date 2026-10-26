@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T11:38:56+10:00",
+"updated": "2026-10-26T12:07:12+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1936,14 +1936,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 4400.0,
+"ongoingAdviceFee": 2013.98,
+"upfrontInsurance": 1600.09,
+"ongoingInsurance": 533.35,
+"soaFile": {
+"name": "Victoria Mappin - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1W25KEhArGko6QvtmT-cZN24KzZERy7jr/view"
+}
 },
 {
 "id": "r-celli-clews",
@@ -2053,7 +2056,7 @@
 "ongoingInsurance": 123.06,
 "soaFile": {
 "name": "Christien Linda Midgley - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1h7-jdaYIB_-snziksvGLxvHBp8cMLVDm/view"
+"url": "https://drive.google.com/file/d/12uk8nhSJrLARyOzS3NgeZFNCpyUkqUni/view"
 }
 },
 {
@@ -2868,6 +2871,23 @@
 "received": "2026-10-23",
 "due": "2026-10-29 3pm",
 "salesRep": "Mitchell",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-john-jenkins",
+"client": "John Jenkins",
+"received": "2026-10-26",
+"due": "2026-10-29 12pm",
+"salesRep": "Min / Min",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
