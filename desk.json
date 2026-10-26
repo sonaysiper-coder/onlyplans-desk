@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T11:07:11+10:00",
+"updated": "2026-10-26T11:38:56+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1160,8 +1160,8 @@
 "upfrontInsurance": 188.59,
 "ongoingInsurance": 62.86,
 "soaFile": {
-"name": "Jennifer Joyce Verna Sands - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1jNjniAD_EZJc4k2rn7KpKTDqpiuP5Vtz/view"
+"name": "20261019 Sands, Jennifer - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1j5JmPHhhTecR8TpXG_SmT56hm42tpAr-/view"
 }
 },
 {
@@ -1311,8 +1311,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Gabrielle Rebekah Austin - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1VPiFfxC6dspQ7W74qHaP1TKL507UvpY7/view"
+"name": "20261015 Austin, Gabrielle - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1WJUJtxcsDRDC6WaNOBCuJIUvO7Wbq7uC/view"
 }
 },
 {
@@ -1380,14 +1380,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 6582.54,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "Scott Andrew Radford-Chisholm - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1JhZh9tXQZ8z-ErN-L_FAVIDsfEjMEem-/view"
+}
 },
 {
 "id": "r-rick-clark",
@@ -1953,10 +1956,10 @@
 "status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 6277.44,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
 "soaFile": {
 "name": "Celli Anna Clews - Statement Of Advice.pdf",
 "url": "https://drive.google.com/file/d/1juVzD_8G8ReOGCje6_HtBtYjdaXgYIvm/view"
@@ -1987,14 +1990,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 4408.3,
+"upfrontInsurance": 3494.26,
+"ongoingInsurance": 1164.76,
+"soaFile": {
+"name": "Elizabeth Jane Harriman - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1ZJekVhly5f2IjY4_fgG5lv8pfUdGzaUJ/view"
+}
 },
 {
 "id": "r-nicole-moana",
