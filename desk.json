@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T12:40:01+10:00",
+"updated": "2026-10-26T14:06:42+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1976,14 +1976,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 5250.05,
+"upfrontInsurance": 4818.42,
+"ongoingInsurance": 1606.14,
+"soaFile": {
+"name": "Jenni Brown - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1JDE4be6NfFwtRLfH-jQ-H_zKtv7ijQ35/view"
+}
 },
 {
 "id": "r-elizabeth-harriman",
@@ -2922,6 +2925,23 @@
 "received": "2026-10-26",
 "due": "2026-10-29 1pm",
 "salesRep": "Mitchell",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-rebecca-harrison",
+"client": "Rebecca Harrison",
+"received": "2026-10-26",
+"due": "2026-11-09 2pm",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
