@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T14:06:42+10:00",
+"updated": "2026-10-26T15:10:06+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2016,14 +2016,17 @@
 "salesRep": "Mitch",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 1412.71,
+"upfrontInsurance": 2389.96,
+"ongoingInsurance": 796.66,
+"soaFile": {
+"name": "Nicole Louise Myfanvy Moana - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1v0kedptodPzzQxskTRv0cggUdxmSHttp/view"
+}
 },
 {
 "id": "r-craig-midgley",
