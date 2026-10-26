@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T09:09:41+10:00",
+"updated": "2026-10-26T11:07:11+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2038,14 +2038,17 @@
 "salesRep": "Mitch",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 6600.0,
+"upfrontInsurance": 369.18,
+"ongoingInsurance": 123.06,
+"soaFile": {
+"name": "Christien Linda Midgley - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1h7-jdaYIB_-snziksvGLxvHBp8cMLVDm/view"
+}
 },
 {
 "id": "r-meagan-beck",
