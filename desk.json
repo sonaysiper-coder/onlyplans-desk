@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T10:05:58+10:00",
+"updated": "2026-10-27T10:35:09+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2266,14 +2266,17 @@
 "salesRep": "Min/Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 1902.71,
+"ongoingInsurance": 634.24,
+"soaFile": {
+"name": "Roxann Marie Taylor - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1pH4JLklzoY1ThJNy8uZnKX62zwXopUiq/view"
+}
 },
 {
 "id": "r-michaela-rocks",
