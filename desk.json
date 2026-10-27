@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T14:03:22+10:00",
+"updated": "2026-10-27T15:03:04+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1568,9 +1568,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-27",
 "initialAdviceFee": 4400.0,
 "ongoingAdviceFee": 1896.38,
 "upfrontInsurance": 2022.24,
@@ -2113,14 +2113,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 4400.0,
+"ongoingAdviceFee": 1693.71,
+"upfrontInsurance": 769.57,
+"ongoingInsurance": 256.52,
+"soaFile": {
+"name": "Mitchell Jarrod Liebeck - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1e7FSNhPMjRcBvwOhJy6HpCYZnEMCgvUk/view"
+}
 },
 {
 "id": "r-adrian-barac",
@@ -3044,6 +3047,23 @@
 "client": "Marina Tantemsapya",
 "received": "2026-10-27",
 "due": "2026-11-06 11am",
+"salesRep": "Min / Vanessa",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-gabrielle-rogers",
+"client": "Gabrielle Rogers",
+"received": "2026-10-27",
+"due": "2026-11-02 10am",
 "salesRep": "Min / Vanessa",
 "adviser": null,
 "paraplanner": null,
