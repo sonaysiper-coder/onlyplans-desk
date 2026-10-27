@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T18:10:37+10:00",
+"updated": "2026-10-27T10:05:58+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2982,6 +2982,23 @@
 "received": "2026-10-26",
 "due": "2026-11-02 11am",
 "salesRep": "Kate",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-eugene-nahi",
+"client": "Eugene Nahi",
+"received": "2026-10-26",
+"due": "2026-11-02 3pm",
+"salesRep": "Min / Danni",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
