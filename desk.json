@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T16:32:58+10:00",
+"updated": "2026-10-27T19:05:42+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3087,6 +3087,23 @@
 "client": "Jennelle Blake",
 "received": "2026-10-27",
 "due": "2026-11-02 2pm",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-melissa-hillier",
+"client": "Melissa Hillier",
+"received": "2026-10-27",
+"due": "2026-11-05 5pm",
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
