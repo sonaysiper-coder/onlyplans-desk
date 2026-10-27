@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T10:35:09+10:00",
+"updated": "2026-10-27T11:40:01+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2320,14 +2320,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 6600.0,
+"upfrontInsurance": 3093.45,
+"ongoingInsurance": 1031.14,
+"soaFile": {
+"name": "Paul Alan Sudholz - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1SVGySznN0IWRqz8b3U4QJf4Q73uYtfjM/view"
+}
 },
 {
 "id": "r-scott-obrien",
@@ -3002,6 +3005,23 @@
 "received": "2026-10-26",
 "due": "2026-11-02 3pm",
 "salesRep": "Min / Danni",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-carmen-soto",
+"client": "Carmen Soto",
+"received": "2026-10-27",
+"due": "2026-11-02 4pm",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
