@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T15:03:04+10:00",
+"updated": "2026-10-27T15:34:01+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1286,14 +1286,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 2438.6,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "Roxanne Daldy - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1jXkfn2-r0uUltPWSrYWg0QCVBYRFsV4D/view"
+}
 },
 {
 "id": "r-gabrielle-austin",
@@ -2948,14 +2951,17 @@
 "salesRep": "Mitchell",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 4001.76,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "Jason Clifford Sheldon - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1QOhP_du1Gx73mfGY2kUrs2lTqjitydxt/view"
+}
 },
 {
 "id": "r-rebecca-harrison",
