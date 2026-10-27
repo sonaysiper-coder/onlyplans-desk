@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T11:40:01+10:00",
+"updated": "2026-10-27T12:38:48+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2286,14 +2286,17 @@
 "salesRep": "Min/Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3120.73,
+"upfrontInsurance": 7747.21,
+"ongoingInsurance": 2582.39,
+"soaFile": {
+"name": "Michaela Calvin Rocks - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1wB7x1rls5phz_CPbYg43LlFeFybP7tdN/view"
+}
 },
 {
 "id": "r-beatrice-zly",
