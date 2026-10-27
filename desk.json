@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T13:05:29+10:00",
+"updated": "2026-10-27T14:03:22+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1576,8 +1576,8 @@
 "upfrontInsurance": 2022.24,
 "ongoingInsurance": 674.07,
 "soaFile": {
-"name": "Kenneth Robert Bigornia - Statement of advice.pdf",
-"url": "https://drive.google.com/file/d/1uIfyjxrFBa4O-gRs3Tn-YWffRvIT0jfJ/view"
+"name": "20261019 Bigornia, Kenneth - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/155JFD-ZKqQ0J49YkEQ-W7DEuMMEXR3_j/view"
 }
 },
 {
@@ -2198,14 +2198,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 2400.27,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "Vincent Mark Bons - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1d00dapp0CZDBLDrx4QBPTgrE1REMpXUV/view"
+}
 },
 {
 "id": "r-paul-pogula",
