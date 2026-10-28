@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T16:03:54+10:00",
+"updated": "2026-10-28T16:38:56+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2144,8 +2144,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Adrian Barac - Stonehaven Financial - Statement of Advice.pdf",
-"url": "https://drive.google.com/file/d/1vTc9wXiq0Qdvqb8f0dMol7FS0JbtKJcz/view"
+"name": "20261026 Barac, Adrian -Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1fpyn9eyf-dMFHXs9LalAtmKUXybsuIFp/view"
 }
 },
 {
@@ -2244,14 +2244,17 @@
 "salesRep": "Liam",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3436.89,
+"upfrontInsurance": 4580.01,
+"ongoingInsurance": 1526.67,
+"soaFile": {
+"name": "Yusnizah Yusope - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1IMCeiHe02rWJqulRKrVeBtq3xHPb8Qm2/view"
+}
 },
 {
 "id": "r-amanda-logan",
