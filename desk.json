@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T18:35:24+10:00",
+"updated": "2026-10-29T09:08:07+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2412,14 +2412,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 6252.53,
+"ongoingInsurance": 2084.18,
+"soaFile": {
+"name": "Matthew Vasasou Peneueta - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/12dpQjlf3C0Ayx-rClDD3Q3Eusvm6ELwb/view"
+}
 },
 {
 "id": "r-michelle-wandtke",
