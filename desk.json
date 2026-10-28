@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T10:40:13+10:00",
+"updated": "2026-10-28T11:40:08+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2855,14 +2855,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 4201.28,
+"upfrontInsurance": 5705.37,
+"ongoingInsurance": 1901.79,
+"soaFile": {
+"name": "Phillip Keith Johnson - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1nRxCys_l6zcNNIb6QKkLFKbpFPUkvi-k/view"
+}
 },
 {
 "id": "r-carlos-koc",
