@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T12:31:04+10:00",
+"updated": "2026-10-28T13:03:57+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3222,6 +3222,23 @@
 "received": "2026-10-28",
 "due": "2026-11-03 9am",
 "salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-michael-brockman-rees",
+"client": "Michael Brockman-rees",
+"received": "2026-10-28",
+"due": "2026-11-03 10am",
+"salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
