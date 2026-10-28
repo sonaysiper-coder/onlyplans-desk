@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T10:05:39+10:00",
+"updated": "2026-10-28T10:40:13+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2136,14 +2136,17 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3561.93,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "Adrian Barac - Stonehaven Financial - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1vTc9wXiq0Qdvqb8f0dMol7FS0JbtKJcz/view"
+}
 },
 {
 "id": "r-william-jones",
