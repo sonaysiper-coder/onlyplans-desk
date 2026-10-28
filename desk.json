@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T12:02:48+10:00",
+"updated": "2026-10-28T12:31:04+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1599,8 +1599,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Noah Eteuati Malaki Iakopo - Statement of advice.pdf",
-"url": "https://drive.google.com/file/d/13cRnjlnPrXmQ0x5GvjVJI_rfu8ll-PNo/view"
+"name": "20261019 Iakopo, Noah - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1_GhnSipcbrNk-UBESAsMjtEWFry-IN-E/view"
 }
 },
 {
@@ -2457,14 +2457,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 1623.3,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "Philip John Prentice - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1IHX24NpntQ9nioLzr0J_XXT61yHcuWIp/view"
+}
 },
 {
 "id": "r-joshua-spradbrow",
@@ -2494,14 +2497,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 1991.63,
+"ongoingInsurance": 663.88,
+"soaFile": {
+"name": "Bryana Marion Tzannes - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1nJU3qvVffdxudAf5rO9pWi6pd1sjrrNL/view"
+}
 },
 {
 "id": "r-jodie-kelly",
@@ -3198,6 +3204,23 @@
 "client": "Nathan Crago",
 "received": "2026-10-28",
 "due": "2026-11-04 11am",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-ondre-church",
+"client": "Ondre Church",
+"received": "2026-10-28",
+"due": "2026-11-03 9am",
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
