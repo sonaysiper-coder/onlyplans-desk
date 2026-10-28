@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T13:03:57+10:00",
+"updated": "2026-10-28T14:36:15+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2372,14 +2372,17 @@
 "salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3537.14,
+"upfrontInsurance": 5420.96,
+"ongoingInsurance": 1806.99,
+"soaFile": {
+"name": "Raymond Corley - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1Y5GsBAzXKrYXykSSTUcZWw1CFn6L-v4M/view"
+}
 },
 {
 "id": "r-adrian-mcpherson-stack",
