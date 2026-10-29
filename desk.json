@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T12:40:30+10:00",
+"updated": "2026-10-29T15:05:58+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2961,14 +2961,17 @@
 "salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 1421.52,
+"upfrontInsurance": 1608.96,
+"ongoingInsurance": 536.32,
+"soaFile": {
+"name": "Megan Connelly - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1-AQudEZWS7OohVUb8Q23gU2f0GiELy4J/view"
+}
 },
 {
 "id": "r-jason-sheldon",
