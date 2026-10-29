@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T15:34:26+10:00",
+"updated": "2026-10-29T16:31:19+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -399,13 +399,13 @@
 "status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": 6500.0,
-"ongoingAdviceFee": 4092.48,
+"initialAdviceFee": 5500.0,
+"ongoingAdviceFee": 4108.98,
 "upfrontInsurance": 739.08,
 "ongoingInsurance": 246.36,
 "soaFile": {
 "name": "Jessica shae Burbidge - Statement Of Advice 2.0.pdf",
-"url": "https://drive.google.com/file/d/1PP2ZNsldbcaqdQo5Itj-rMYYNjXiUmf-/view"
+"url": "https://drive.google.com/file/d/1AZQkfopx-J4_7tx1STt7AwfdscNRApnY/view"
 }
 },
 {
@@ -1557,9 +1557,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-29",
 "initialAdviceFee": 5500.0,
 "ongoingAdviceFee": 1896.8,
 "upfrontInsurance": 0.0,
@@ -2364,14 +2364,17 @@
 "salesRep": "Mitch",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 5091.49,
+"upfrontInsurance": 3297.59,
+"ongoingInsurance": 1099.2,
+"soaFile": {
+"name": "Scott James O'brien - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1iOgbLJtVspKRvwA01w3b5gmn3eEN7iSp/view"
+}
 },
 {
 "id": "r-raymond-corley",
@@ -3447,6 +3450,57 @@
 "received": "2026-10-29",
 "due": "2026-11-04 12pm",
 "salesRep": "Mitch",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-natalie-brooker",
+"client": "Natalie Brooker",
+"received": "2026-10-29",
+"due": "2026-11-05 3pm",
+"salesRep": "Min / Vanessa",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-graham-leach",
+"client": "Graham Leach",
+"received": "2026-10-29",
+"due": "2026-11-03 2pm",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-david-doubleday",
+"client": "David Doubleday",
+"received": "2026-10-29",
+"due": "2026-11-05 4pm",
+"salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
