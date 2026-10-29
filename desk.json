@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T11:09:35+10:00",
+"updated": "2026-10-29T11:33:09+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3370,6 +3370,40 @@
 "received": "2026-10-29",
 "due": "2026-11-06 9am",
 "salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-luke-muntz",
+"client": "Luke Muntz",
+"received": "2026-10-29",
+"due": "2026-11-05 11am",
+"salesRep": "Sam",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-steven-taylor",
+"client": "Steven Taylor",
+"received": "2026-10-29",
+"due": "2026-11-03 3pm",
+"salesRep": "Mitchell",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
