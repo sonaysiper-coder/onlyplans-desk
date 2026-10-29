@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T10:02:47+10:00",
+"updated": "2026-10-29T11:09:35+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2941,14 +2941,17 @@
 "salesRep": "Min / Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 2881.72,
+"upfrontInsurance": 6000.18,
+"ongoingInsurance": 2000.07,
+"soaFile": {
+"name": "John Robert Jenkins - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1chhFellhREHmyqrJuQ88u3PeuQDQUMZ_/view"
+}
 },
 {
 "id": "r-megan-connelly",
@@ -3350,6 +3353,23 @@
 "received": "2026-10-28",
 "due": "2026-11-05 12pm",
 "salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-craig-worsley-grace",
+"client": "Craig Worsley-Grace",
+"received": "2026-10-29",
+"due": "2026-11-06 9am",
+"salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
