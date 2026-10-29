@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T15:05:58+10:00",
+"updated": "2026-10-29T15:34:26+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -396,14 +396,17 @@
 "salesRep": null,
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 4092.48,
+"upfrontInsurance": 739.08,
+"ongoingInsurance": 246.36,
+"soaFile": {
+"name": "Jessica shae Burbidge - Statement Of Advice 2.0.pdf",
+"url": "https://drive.google.com/file/d/1PP2ZNsldbcaqdQo5Itj-rMYYNjXiUmf-/view"
+}
 },
 {
 "id": "r-angus-ingram",
@@ -1554,14 +1557,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 5500.0,
+"ongoingAdviceFee": 1896.8,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "20261018 Somerfield, Kily - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1ZcGw2jZBeMoHDldYcH8LrnoHuIqU_1py/view"
+}
 },
 {
 "id": "r-kenneth-bigornia",
