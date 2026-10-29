@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T16:31:19+10:00",
+"updated": "2026-10-29T18:09:58+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2085,14 +2085,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 5919.96,
+"upfrontInsurance": 547.84,
+"ongoingInsurance": 182.62,
+"soaFile": {
+"name": "Meagan Louise Beck - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1GAAnO4SWwuLkBavkCxfvirsPgHxI-WxQ/view"
+}
 },
 {
 "id": "r-nicholas-groves",
