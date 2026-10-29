@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T09:08:07+10:00",
+"updated": "2026-10-29T10:02:47+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3333,6 +3333,23 @@
 "received": "2026-10-28",
 "due": "2026-11-03 5pm",
 "salesRep": "Mitch",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-melissa-bernardi",
+"client": "Melissa Bernardi",
+"received": "2026-10-28",
+"due": "2026-11-05 12pm",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
