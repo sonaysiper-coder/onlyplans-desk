@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T10:39:24+10:00",
+"updated": "2026-10-30T11:05:42+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2432,8 +2432,8 @@
 "upfrontInsurance": 6252.53,
 "ongoingInsurance": 2084.18,
 "soaFile": {
-"name": "Matthew Vasasou Peneueta - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/12dpQjlf3C0Ayx-rClDD3Q3Eusvm6ELwb/view"
+"name": "20261027 Peneueta, Matthew - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1H0Lde6otKhzf7HHZCSghoFmYvzeYkKUW/view"
 }
 },
 {
@@ -3543,6 +3543,23 @@
 "status": "Paraplanning Request",
 "requestType": "Paraplanning Request",
 "signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-marisa-chisholm",
+"client": "Marisa Chisholm",
+"received": null,
+"due": null,
+"salesRep": null,
+"adviser": null,
+"paraplanner": null,
+"status": "Signed",
+"requestType": null,
+"signedDate": "2026-10-30",
 "initialAdviceFee": null,
 "ongoingAdviceFee": null,
 "upfrontInsurance": null,
