@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T11:05:42+10:00",
+"updated": "2026-10-30T11:38:48+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3560,6 +3560,40 @@
 "status": "Signed",
 "requestType": null,
 "signedDate": "2026-10-30",
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-kimberley-craig",
+"client": "Kimberley Craig",
+"received": "2026-10-30",
+"due": "2026-11-05 2pm",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-jacquelyne-research",
+"client": "Jacquelyne Research",
+"received": "2026-10-30",
+"due": "2026-11-17 9am",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
 "initialAdviceFee": null,
 "ongoingAdviceFee": null,
 "upfrontInsurance": null,
