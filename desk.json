@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T18:32:20+10:00",
+"updated": "2026-10-30T10:08:32+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1366,9 +1366,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-29",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 6600.0,
 "upfrontInsurance": 0.0,
@@ -2224,8 +2224,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Vincent Mark Bons - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1Z--jUIAFNLbOmYG9LzmE5EwzgGFQnSsK/view"
+"name": "20261026 Bons, Vincent - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1WofdfVQ2OFvHn-LmJH-ZIs_-vhOV_gn_/view"
 }
 },
 {
@@ -3520,6 +3520,23 @@
 "client": "Benjamin Seinor",
 "received": "2026-10-29",
 "due": "2026-11-05 9am",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-dylan-evans",
+"client": "Dylan Evans",
+"received": "2026-10-29",
+"due": "2026-11-05 10am",
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
