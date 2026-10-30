@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T11:38:48+10:00",
+"updated": "2026-10-30T12:04:28+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -2424,9 +2424,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-10-30",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 0.0,
 "upfrontInsurance": 6252.53,
@@ -3586,6 +3586,23 @@
 {
 "id": "r-jacquelyne-research",
 "client": "Jacquelyne Research",
+"received": "2026-10-30",
+"due": "2026-11-17 9am",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-jacquelyne-carter",
+"client": "Jacquelyne Carter",
 "received": "2026-10-30",
 "due": "2026-11-17 9am",
 "salesRep": "Fabian",
