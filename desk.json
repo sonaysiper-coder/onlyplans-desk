@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T10:08:32+10:00",
+"updated": "2026-10-30T10:39:24+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1374,8 +1374,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Janine Slade - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/19zru4HfXfkeJ30djbivRPMk5yOSetQnH/view"
+"name": "20261019 Slade, Janine - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1tg8TNqMnCM2OydnI1rqKVtdizLbpQ45x/view"
 }
 },
 {
@@ -2216,9 +2216,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-10-30",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 2400.27,
 "upfrontInsurance": 0.0,
