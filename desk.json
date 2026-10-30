@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T12:04:28+10:00",
+"updated": "2026-10-30T13:01:01+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1965,16 +1965,16 @@
 "salesRep": null,
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-10-30",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 6277.44,
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Celli Anna Clews - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1juVzD_8G8ReOGCje6_HtBtYjdaXgYIvm/view"
+"name": "20261023 Clews, Celli - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1FoI_fTRs9Sq6MTvt0J8iQ2bKNZqauNfW/view"
 }
 },
 {
@@ -2093,8 +2093,8 @@
 "upfrontInsurance": 547.84,
 "ongoingInsurance": 182.62,
 "soaFile": {
-"name": "Meagan Louise Beck - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1GAAnO4SWwuLkBavkCxfvirsPgHxI-WxQ/view"
+"name": "20261022 Beck, Meagan - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1YVzTGEIK3VVrGrg6JpMr07aJzZxNcRbX/view"
 }
 },
 {
