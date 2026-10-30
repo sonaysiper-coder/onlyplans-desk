@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T13:01:01+10:00",
+"updated": "2026-10-30T13:32:30+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -921,8 +921,8 @@
 "signedDate": null,
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 3083.55,
-"upfrontInsurance": 5015.19,
-"ongoingInsurance": 1671.72,
+"upfrontInsurance": 4334.14,
+"ongoingInsurance": 1444.72,
 "soaFile": {
 "name": "Dylon John Luck - Statement Of Advice.pdf",
 "url": "https://drive.google.com/file/d/1zTIaW6sXcYkGrQGR948eVe7wK6tDE3DX/view"
@@ -2085,9 +2085,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-10-30",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 5919.96,
 "upfrontInsurance": 547.84,
