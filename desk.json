@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T15:39:44+10:00",
+"updated": "2026-11-02T16:31:56+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1160,11 +1160,11 @@
 "signedDate": "2026-10-23",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 1463.83,
-"upfrontInsurance": 188.59,
-"ongoingInsurance": 62.86,
+"upfrontInsurance": 264.09,
+"ongoingInsurance": 88.03,
 "soaFile": {
-"name": "20261019 Sands, Jennifer - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1j5JmPHhhTecR8TpXG_SmT56hm42tpAr-/view"
+"name": "Jennifer Joyce Verna Sands - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1jNjniAD_EZJc4k2rn7KpKTDqpiuP5Vtz/view"
 }
 },
 {
@@ -3132,9 +3132,9 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-02",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 0.0,
 "upfrontInsurance": 1651.71,
