@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T15:09:17+10:00",
+"updated": "2026-11-04T15:37:49+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1839,8 +1839,8 @@
 "upfrontInsurance": 3065.08,
 "ongoingInsurance": 1021.68,
 "soaFile": {
-"name": "Clint Stephen Mccarthy - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1Aeg-2J1HMz-U1hFoTrWN0bdv5_-os3ze/view"
+"name": "20261023 Mccarthy, Clint - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1y6AG6V8sXCoZIH7_E-4SCBYSy9IJvAsB/view"
 }
 },
 {
@@ -3850,6 +3850,23 @@
 "received": "2026-11-04",
 "due": "2026-11-10 9am",
 "salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-kartika-teller",
+"client": "Kartika Teller",
+"received": "2026-11-04",
+"due": "2026-11-10 12pm",
+"salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
