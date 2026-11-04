@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T10:01:36+10:00",
+"updated": "2026-11-04T12:31:15+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3782,6 +3782,23 @@
 "received": "2026-11-03",
 "due": "2026-11-10 5pm",
 "salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-kaiming-li",
+"client": "Kaiming Li",
+"received": "2026-11-04",
+"due": "2026-11-10 2pm",
+"salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
