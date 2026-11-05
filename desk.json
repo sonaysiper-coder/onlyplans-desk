@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-05T11:09:30+10:00",
+"updated": "2026-11-05T11:33:36+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3118,9 +3118,9 @@
 "salesRep": "Min / Vanessa",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-05",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 0.0,
 "upfrontInsurance": 2255.77,
@@ -3175,14 +3175,17 @@
 "salesRep": "Min / Vanessa",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "20261029 Rogers, Jeremy - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1R8XAQWa2JWBrLhF6znVG-ltk5y1_44sR/view"
+}
 },
 {
 "id": "r-leigh-mcpherson",
