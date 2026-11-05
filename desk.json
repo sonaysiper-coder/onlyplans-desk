@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-05T09:33:59+10:00",
+"updated": "2026-11-05T10:35:47+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3064,9 +3064,9 @@
 "salesRep": "Min / Danni",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-04",
 "initialAdviceFee": 4400.0,
 "ongoingAdviceFee": 2007.95,
 "upfrontInsurance": 2565.98,
@@ -3118,14 +3118,17 @@
 "salesRep": "Min / Vanessa",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 2255.77,
+"ongoingInsurance": 751.92,
+"soaFile": {
+"name": "20261028 Rogers, Garbrielle - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1cy6Nd1D2WJ0cI9miH9Twth474HAwfgV6/view"
+}
 },
 {
 "id": "r-jennelle-blake",
@@ -3277,14 +3280,17 @@
 "salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"signedDate": "2026-11-05",
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 1279.79,
+"upfrontInsurance": 2667.0,
+"ongoingInsurance": 889.0,
+"soaFile": {
+"name": "20261028 Brockman-Rees, Michael - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/12lw_qop9X_jmSrR_18jZlN6NNXZY6nuL/view"
+}
 },
 {
 "id": "r-selenia-bono",
@@ -3937,6 +3943,40 @@
 "client": "Jeremy Robertson",
 "received": "2026-11-04",
 "due": "2026-11-11 4pm",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-yoshe-hodgkinson",
+"client": "Yoshe Hodgkinson",
+"received": "2026-11-05",
+"due": "2026-11-12 9am",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-karen-hamilton",
+"client": "Karen Hamilton",
+"received": "2026-11-05",
+"due": "2026-11-11 3pm",
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
