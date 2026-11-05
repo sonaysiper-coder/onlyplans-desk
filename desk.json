@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-05T16:33:55+10:00",
+"updated": "2026-11-05T17:46:33+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3422,14 +3422,17 @@
 "salesRep": "Sam",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 1609.01,
+"upfrontInsurance": 1772.1,
+"ongoingInsurance": 590.7,
+"soaFile": {
+"name": "20261029 Muntz, Luke - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1C51MA9tzC-CdJUCVCgiLIfWIbIr2I0LO/view"
+}
 },
 {
 "id": "r-steven-taylor",
