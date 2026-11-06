@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T10:06:52+10:00",
+"updated": "2026-11-06T11:07:22+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1637,9 +1637,9 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-11-06",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 0.0,
 "upfrontInsurance": 1945.66,
@@ -3544,14 +3544,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
+"initialAdviceFee": 3300.0,
 "ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"upfrontInsurance": 2110.62,
+"ongoingInsurance": 703.53,
+"soaFile": {
+"name": "20261029 Seinor, Benjamin - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1Q8dV23cjGNOiB5iAe3dAvT5IW1hlFkDA/view"
+}
 },
 {
 "id": "r-dylan-evans",
@@ -4154,6 +4157,23 @@
 "received": "2026-11-05",
 "due": "2026-11-12 12pm",
 "salesRep": "Mitch",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-jessica-blasko",
+"client": "Jessica Blasko",
+"received": "2026-11-06",
+"due": "2026-11-13 9am",
+"salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
