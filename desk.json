@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-05T19:37:58+10:00",
+"updated": "2026-11-06T10:06:52+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1645,8 +1645,8 @@
 "upfrontInsurance": 1945.66,
 "ongoingInsurance": 648.55,
 "soaFile": {
-"name": "Sebastian Nicolas Pivet - Statement of advice.pdf",
-"url": "https://drive.google.com/file/d/1O49f_dY3aNs1QalLfX0j5XV65WoR2pZs/view"
+"name": "20261018 Pivet, Sebastian - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1d4I1Wh86K0V66-7waaiq3CY692aNdKUU/view"
 }
 },
 {
@@ -4137,6 +4137,23 @@
 "received": "2026-11-05",
 "due": "2026-11-12 11am",
 "salesRep": "mitch",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-katherine-cramp",
+"client": "Katherine Cramp",
+"received": "2026-11-05",
+"due": "2026-11-12 12pm",
+"salesRep": "Mitch",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
