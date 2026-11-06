@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T11:38:24+10:00",
+"updated": "2026-11-06T12:10:19+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3544,9 +3544,9 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-06",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": null,
 "upfrontInsurance": 2110.62,
@@ -4191,6 +4191,23 @@
 "received": "2026-11-06",
 "due": "2026-11-12 1pm",
 "salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-niko-aunelas",
+"client": "Niko Aunelas",
+"received": "2026-11-06",
+"due": "2026-11-16 9am",
+"salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
