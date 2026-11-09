@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09T14:37:46+10:00",
+"updated": "2026-11-09T15:40:20+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3408,9 +3408,9 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-09",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 6600.0,
 "upfrontInsurance": 2480.79,
@@ -3729,14 +3729,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 5500.0,
+"ongoingAdviceFee": 2421.69,
+"upfrontInsurance": 3370.59,
+"ongoingInsurance": 1123.54,
+"soaFile": {
+"name": "20261108 Adams, John - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/17E8o0iAYT4z3cQx67T-9wv5lai6wBpxb/view"
+}
 },
 {
 "id": "r-rachael-bentley",
