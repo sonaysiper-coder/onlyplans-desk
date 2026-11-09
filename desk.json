@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09T12:39:32+10:00",
+"updated": "2026-11-09T14:06:26+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4265,6 +4265,23 @@
 "received": "2026-11-09",
 "due": "2026-11-19 10am",
 "salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-amy-vromans-dillaway",
+"client": "Amy Vromans-Dillaway",
+"received": "2026-11-09",
+"due": "2026-11-16 10am",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
