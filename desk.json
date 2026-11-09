@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09T09:35:19+10:00",
+"updated": "2026-11-09T11:10:07+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4214,6 +4214,40 @@
 "received": "2026-11-06",
 "due": "2026-11-16 9am",
 "salesRep": "Min / Sam W",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-tracey-carter",
+"client": "Tracey Carter",
+"received": "2026-11-09",
+"due": "2026-11-12 2pm",
+"salesRep": "Min / TIm",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-ruchy-sheorian",
+"client": "Ruchy Sheorian",
+"received": "2026-11-09",
+"due": "2026-11-13 10am",
+"salesRep": "Tim / Sam W",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
