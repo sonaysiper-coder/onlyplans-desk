@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10T15:37:38+10:00",
+"updated": "2026-11-10T16:02:32+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3868,14 +3868,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3090.25,
+"upfrontInsurance": 2349.35,
+"ongoingInsurance": 783.12,
+"soaFile": {
+"name": "20261108 Tedesco, David - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/14Rj4nyRXxavuB_f0pVFd2yB5yNu4I-9J/view"
+}
 },
 {
 "id": "r-shaun-harris",
