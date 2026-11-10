@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10T09:32:07+10:00",
+"updated": "2026-11-10T11:09:45+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3885,14 +3885,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 4400.0,
+"ongoingAdviceFee": 1693.41,
+"upfrontInsurance": 3455.09,
+"ongoingInsurance": 1151.71,
+"soaFile": {
+"name": "20261108 Harris, Shaun - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1C5L4aIiXF0L-H1XvBFouf2KrvE4l93OI/view"
+}
 },
 {
 "id": "r-kartika-teller",
