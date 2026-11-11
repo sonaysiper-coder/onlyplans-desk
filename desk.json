@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T16:02:37+10:00",
+"updated": "2026-11-11T17:06:30+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3343,14 +3343,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3806.73,
+"upfrontInsurance": 2523.44,
+"ongoingInsurance": 841.15,
+"soaFile": {
+"name": "20261029 Roach, Ian - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/102JhPQUoVBqaEAR7bBaM5uEX0RvTxQDq/view"
+}
 },
 {
 "id": "r-angela-groves",
