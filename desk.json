@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T10:39:37+10:00",
+"updated": "2026-11-11T11:10:29+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4484,6 +4484,23 @@
 "received": "2026-11-11",
 "due": "2026-11-20 11am",
 "salesRep": "Min / Sam W",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-iris-mcphail",
+"client": "Iris Mcphail",
+"received": "2026-11-11",
+"due": "2026-11-23 9am",
+"salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
