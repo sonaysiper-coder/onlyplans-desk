@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T11:10:29+10:00",
+"updated": "2026-11-11T11:38:05+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3942,14 +3942,17 @@
 "salesRep": "Mitch",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 8073.8,
+"ongoingInsurance": 2691.26,
+"soaFile": {
+"name": "Bradley william Lawrence - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1LIX9799xNJ8kZmrySbPCpUSENccBgQoB/view"
+}
 },
 {
 "id": "r-kyle-jacobs",
