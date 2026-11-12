@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T10:02:47+10:00",
+"updated": "2026-11-12T17:15:06+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -453,11 +453,14 @@
 "status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": "2026-11-02",
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 6600.0,
+"upfrontInsurance": 1999.74,
+"ongoingInsurance": 666.58,
+"soaFile": {
+"name": "20261005 Heal, Nadine - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1YobN9afU27WxGdr9oXVFU5WpKudgL1M5/view"
+}
 },
 {
 "id": "r-georgia-schreenan",
@@ -1862,8 +1865,8 @@
 "upfrontInsurance": 1262.12,
 "ongoingInsurance": 420.72,
 "soaFile": {
-"name": "Lauren Ann Nicol - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1wZ9s9-rNgVAEVg3NhLvIlzINJW4q9RgZ/view"
+"name": "20261112 Nicol, Lauren - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1FxmjwBVAuxRO1yfhtgzgPxs5aexcAkFy/view"
 }
 },
 {
