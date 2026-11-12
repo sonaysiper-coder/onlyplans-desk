@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T09:03:15+10:00",
+"updated": "2026-11-13T09:32:44+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4631,6 +4631,23 @@
 "name": "20261029 Crago, Jeffrey - Statement Of Advice.pdf",
 "url": "https://drive.google.com/file/d/1KKgz0n7AG3tSlgb3vsNA8R3vvQtUJiaW/view"
 }
+},
+{
+"id": "r-gene-quarrell",
+"client": "Gene Quarrell",
+"received": "2026-11-12",
+"due": "2026-11-17 4pm",
+"salesRep": "Min / Danni",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
 }
 ]
 }
