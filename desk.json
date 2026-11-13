@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T11:34:43+10:00",
+"updated": "2026-11-13T12:41:41+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4655,6 +4655,23 @@
 "received": "2026-11-13",
 "due": "2026-11-19 11am",
 "salesRep": "Min",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-teressa-gealy",
+"client": "Teressa (Tess) Gealy",
+"received": "2026-11-13",
+"due": "2026-11-17 10am",
+"salesRep": "Liam Young",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
