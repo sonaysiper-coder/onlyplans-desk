@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T09:32:44+10:00",
+"updated": "2026-11-13T10:08:30+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1303,8 +1303,8 @@
 "upfrontInsurance": 0.0,
 "ongoingInsurance": 0.0,
 "soaFile": {
-"name": "Roxanne Daldy - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1jXkfn2-r0uUltPWSrYWg0QCVBYRFsV4D/view"
+"name": "20261112 Daldy, Roxanne - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1Ev5Fmvb6ZN0W1iNr3qghxWJFcqQGLj3q/view"
 }
 },
 {
@@ -3258,9 +3258,9 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-12",
 "initialAdviceFee": null,
 "ongoingAdviceFee": null,
 "upfrontInsurance": null,
