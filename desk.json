@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T11:10:10+10:00",
+"updated": "2026-11-13T11:34:43+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -1857,9 +1857,9 @@
 "salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning & Presentation Request",
-"signedDate": null,
+"signedDate": "2026-11-13",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 3971.0,
 "upfrontInsurance": 1262.12,
