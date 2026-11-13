@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T10:08:30+10:00",
+"updated": "2026-11-13T10:34:04+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4638,6 +4638,23 @@
 "received": "2026-11-12",
 "due": "2026-11-17 4pm",
 "salesRep": "Min / Danni",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-mel-stutchbury",
+"client": "Mel Stutchbury",
+"received": "2026-11-13",
+"due": "2026-11-19 11am",
+"salesRep": "Min",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
