@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T12:57:54+10:00",
+"updated": "2026-11-16T13:57:36+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4757,6 +4757,23 @@
 "received": "2026-11-16",
 "due": "2026-11-19 5pm",
 "salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-thomas-clinton",
+"client": "Thomas Clinton",
+"received": "2026-11-16",
+"due": "2026-11-18 2pm",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
