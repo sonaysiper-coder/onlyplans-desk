@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T15:34:11+10:00",
+"updated": "2026-11-16T17:59:36+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4130,14 +4130,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 3534.96,
+"upfrontInsurance": 1971.08,
+"ongoingInsurance": 657.03,
+"soaFile": {
+"name": "20261112 Taxidis, Engela - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1I2NRfJJjQTl3ppjIUmzm-wkQxgCqLpXm/view"
+}
 },
 {
 "id": "r-francine-tobin",
