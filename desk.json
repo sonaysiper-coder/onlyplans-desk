@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T10:04:59+10:00",
+"updated": "2026-11-17T10:59:12+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4828,6 +4828,23 @@
 "received": "2026-11-16",
 "due": "2026-11-19 4pm",
 "salesRep": "Min / Sam W",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-simon-marvello",
+"client": "Simon Marvello",
+"received": "2026-11-17",
+"due": "2026-11-19 2pm",
+"salesRep": "Min / Vanessa",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
