@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T12:56:50+10:00",
+"updated": "2026-11-17T14:29:21+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4899,6 +4899,23 @@
 "received": "2026-11-17",
 "due": "2026-11-23 2pm",
 "salesRep": "Min / Danni",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-genevieve-stewart",
+"client": "Genevieve Stewart",
+"received": "2026-11-17",
+"due": "2026-11-23 1pm",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
