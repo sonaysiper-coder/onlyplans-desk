@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T17:33:14+10:00",
+"updated": "2026-11-17T18:05:15+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -3965,8 +3965,8 @@
 "upfrontInsurance": 8073.8,
 "ongoingInsurance": 2691.26,
 "soaFile": {
-"name": "Bradley william Lawrence - Statement Of Advice.pdf",
-"url": "https://drive.google.com/file/d/1LIX9799xNJ8kZmrySbPCpUSENccBgQoB/view"
+"name": "20261111 Lawrence, Bradley - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1NqkbS1oqMb67zD6FQ04eu37J-XzxDfwk/view"
 }
 },
 {
@@ -4133,9 +4133,9 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-17",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 3534.96,
 "upfrontInsurance": 1971.08,
