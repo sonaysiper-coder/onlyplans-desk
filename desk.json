@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T17:59:36+10:00",
+"updated": "2026-11-17T10:04:59+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4810,6 +4810,23 @@
 "client": "Toddy Stevenson",
 "received": "2026-11-16",
 "due": "2026-11-19 1pm",
+"salesRep": "Min / Sam W",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-michael-judson",
+"client": "Michael Judson",
+"received": "2026-11-16",
+"due": "2026-11-19 4pm",
 "salesRep": "Min / Sam W",
 "adviser": null,
 "paraplanner": null,
