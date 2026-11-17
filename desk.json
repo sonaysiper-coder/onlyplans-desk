@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T14:29:21+10:00",
+"updated": "2026-11-17T15:04:01+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -305,14 +305,17 @@
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning & Presentation Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 5500.0,
+"ongoingAdviceFee": 2121.17,
+"upfrontInsurance": 421.56,
+"ongoingInsurance": 140.52,
+"soaFile": {
+"name": "Maria Fotellis - Statement of Advice.pdf",
+"url": "https://drive.google.com/file/d/1X_5RGHwnjjbZV1fp13uMl6VGLukSK8U9/view"
+}
 },
 {
 "id": "r-samip-bhattarai",
@@ -4916,6 +4919,23 @@
 "received": "2026-11-17",
 "due": "2026-11-23 1pm",
 "salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-sergio-trevino",
+"client": "Sergio Trevino",
+"received": "2026-11-17",
+"due": "2026-11-25 10am",
+"salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
