@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T12:02:10+10:00",
+"updated": "2026-11-17T12:56:50+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4882,6 +4882,23 @@
 "received": "2026-11-17",
 "due": "2026-11-19 3pm",
 "salesRep": "Corey",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-tanya-black",
+"client": "Tanya Black",
+"received": "2026-11-17",
+"due": "2026-11-23 2pm",
+"salesRep": "Min / Danni",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
