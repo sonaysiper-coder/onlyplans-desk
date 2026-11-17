@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T10:59:12+10:00",
+"updated": "2026-11-17T11:26:56+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4677,14 +4677,17 @@
 "salesRep": "Min/owen",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 4400.0,
+"ongoingAdviceFee": 1863.05,
+"upfrontInsurance": 2281.18,
+"ongoingInsurance": 760.39,
+"soaFile": {
+"name": "Suryakumar Rajagopal Durai - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1_LroBDT7eVJsVs52n6E5jO3GjWM84eIJ/view"
+}
 },
 {
 "id": "r-bradley-phillis",
@@ -4845,6 +4848,23 @@
 "received": "2026-11-17",
 "due": "2026-11-19 2pm",
 "salesRep": "Min / Vanessa",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-duncan-macgillivray",
+"client": "Duncan Macgillivray",
+"received": "2026-11-17",
+"due": "2026-11-24 10am",
+"salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
