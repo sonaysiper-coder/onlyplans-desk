@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T19:00:08+10:00",
+"updated": "2026-11-17T19:33:39+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4970,6 +4970,23 @@
 "received": "2026-11-17",
 "due": "2026-11-23 4pm",
 "salesRep": "Corey",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-cassandra-forrest",
+"client": "Cassandra Forrest",
+"received": "2026-11-17",
+"due": "2026-11-23 5pm",
+"salesRep": "Min / Danni",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
