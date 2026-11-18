@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T11:59:51+10:00",
+"updated": "2026-11-18T13:08:03+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -5075,6 +5075,23 @@
 "received": "2026-11-18",
 "due": "2026-11-24 1pm",
 "salesRep": "Sam",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-brenton-maclean",
+"client": "Brenton Maclean",
+"received": "2026-11-18",
+"due": "2026-11-24 5pm",
+"salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
