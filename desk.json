@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T11:02:44+10:00",
+"updated": "2026-11-18T11:31:52+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4717,14 +4717,17 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 6500.0,
+"ongoingAdviceFee": 2301.33,
+"upfrontInsurance": 0.0,
+"ongoingInsurance": 0.0,
+"soaFile": {
+"name": "20261117 Matinson, Ryan - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1kANIB5S-Mu21UlPcPn8Kgg6TexzcOLTB/view"
+}
 },
 {
 "id": "r-atalay-ozorman",
@@ -5021,6 +5024,40 @@
 "received": "2026-11-18",
 "due": "2026-11-24 9am",
 "salesRep": "Liam Young",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-gregory-rowen",
+"client": "Gregory Rowen",
+"received": "2026-11-18",
+"due": "2026-11-24 4pm",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-mark-irvin",
+"client": "Mark Irvin",
+"received": "2026-11-18",
+"due": "2026-11-24 11am",
+"salesRep": "Corey",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
