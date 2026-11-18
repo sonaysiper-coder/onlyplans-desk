@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T11:31:52+10:00",
+"updated": "2026-11-18T11:59:51+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4717,9 +4717,9 @@
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": "Paraplanning Request",
-"signedDate": null,
+"signedDate": "2026-11-18",
 "initialAdviceFee": 6500.0,
 "ongoingAdviceFee": 2301.33,
 "upfrontInsurance": 0.0,
@@ -5058,6 +5058,23 @@
 "received": "2026-11-18",
 "due": "2026-11-24 11am",
 "salesRep": "Corey",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-john-sidiras",
+"client": "John Sidiras",
+"received": "2026-11-18",
+"due": "2026-11-24 1pm",
+"salesRep": "Sam",
 "adviser": null,
 "paraplanner": null,
 "status": "Paraplanning Request",
