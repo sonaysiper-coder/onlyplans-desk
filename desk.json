@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T15:31:06+10:00",
+"updated": "2026-11-19T16:00:57+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -5179,9 +5179,9 @@
 "salesRep": null,
 "adviser": null,
 "paraplanner": null,
-"status": "Uploaded",
+"status": "Signed",
 "requestType": null,
-"signedDate": null,
+"signedDate": "2026-11-19",
 "initialAdviceFee": 3300.0,
 "ongoingAdviceFee": 0.0,
 "upfrontInsurance": 1717.72,
@@ -5196,6 +5196,23 @@
 "client": "Daniel Goss",
 "received": "2026-11-19",
 "due": "2026-11-26 1pm",
+"salesRep": "Fabian",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-bruce-dower",
+"client": "Bruce Dower",
+"received": "2026-11-19",
+"due": "2026-11-25 2pm",
 "salesRep": "Fabian",
 "adviser": null,
 "paraplanner": null,
