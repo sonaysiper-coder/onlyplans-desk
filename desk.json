@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T12:33:29+10:00",
+"updated": "2026-11-19T14:59:23+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -5170,6 +5170,26 @@
 "upfrontInsurance": null,
 "ongoingInsurance": null,
 "soaFile": null
+},
+{
+"id": "r-emmy-lou-worthington",
+"client": "Emmy-Lou Worthington",
+"received": "2026-11-19",
+"due": null,
+"salesRep": null,
+"adviser": null,
+"paraplanner": null,
+"status": "Uploaded",
+"requestType": null,
+"signedDate": null,
+"initialAdviceFee": 3300.0,
+"ongoingAdviceFee": 0.0,
+"upfrontInsurance": 1717.72,
+"ongoingInsurance": 572.56,
+"soaFile": {
+"name": "20261117 Worthington, Emmy-Lou - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1ZiMU17xeVQusTvHsK7dQihuAnTt7GAE2/view"
+}
 }
 ]
 }
