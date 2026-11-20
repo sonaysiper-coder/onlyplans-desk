@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T12:35:48+10:00",
+"updated": "2026-11-20T17:02:36+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -5250,6 +5250,40 @@
 "client": "Leon Kretschmann",
 "received": "2026-11-20",
 "due": "2026-11-25 1pm",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-sharon-jennings",
+"client": "Sharon Jennings",
+"received": "2026-11-20",
+"due": "2026-11-25 4pm",
+"salesRep": "Min / Tim",
+"adviser": null,
+"paraplanner": null,
+"status": "Paraplanning Request",
+"requestType": "Paraplanning Request",
+"signedDate": null,
+"initialAdviceFee": null,
+"ongoingAdviceFee": null,
+"upfrontInsurance": null,
+"ongoingInsurance": null,
+"soaFile": null
+},
+{
+"id": "r-matthew-jennings",
+"client": "Matthew Jennings",
+"received": "2026-11-20",
+"due": "2026-11-25 3pm",
 "salesRep": "Min / Tim",
 "adviser": null,
 "paraplanner": null,
