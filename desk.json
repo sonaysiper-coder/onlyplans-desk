@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T16:00:57+10:00",
+"updated": "2026-11-20T10:07:47+10:00",
 "source": "OnlyPlans desk sync (Stonehaven)",
 "rows": [
 {
@@ -4890,14 +4890,17 @@
 "salesRep": "Corey",
 "adviser": null,
 "paraplanner": null,
-"status": "Paraplanning Request",
+"status": "Uploaded",
 "requestType": "Paraplanning Request",
 "signedDate": null,
-"initialAdviceFee": null,
-"ongoingAdviceFee": null,
-"upfrontInsurance": null,
-"ongoingInsurance": null,
-"soaFile": null
+"initialAdviceFee": 5500.0,
+"ongoingAdviceFee": 2809.12,
+"upfrontInsurance": 1246.66,
+"ongoingInsurance": 415.56,
+"soaFile": {
+"name": "20261120 McNamara, Paul - Statement Of Advice.pdf",
+"url": "https://drive.google.com/file/d/1j8bpjJ_lXHHUcnyUaaI6273zAAm_Bt5P/view"
+}
 },
 {
 "id": "r-tanya-black",
